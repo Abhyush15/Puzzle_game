@@ -1,5 +1,5 @@
 # Puzzle_game
-A simple puzzle game in android**(means only for android)**.
+A simple puzzle game in android **(means only for android)**.
 
 ## Installation
 1. Clone/download the repository.
